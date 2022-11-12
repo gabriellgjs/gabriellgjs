@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Silva...
 
   - 📚 Acadêmico em Desenvolvimento de Sistemas<br>
-  - 🌱 Estudando JavaScript, HTML5 e CSS3
+  - 🌱 Estudando PHP
   
 ### Entre em contato comigo 🔻
 
