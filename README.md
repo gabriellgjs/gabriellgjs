@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Silva...
 
   - 📚 Acadêmico em Desenvolvimento de Sistemas<br>
-  🌱 Estudando Typescript(Node.js)
+  - 🌱 Estudando Node.js
   
 ### Entre em contato comigo 🔻
 
