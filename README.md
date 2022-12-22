@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Silva...
 
   - 📚 Acadêmico em Desenvolvimento de Sistemas<br>
-  - 🌱 Estudando Node.js
+  - 🌱 Estudando Nest.js
   
 ### Entre em contato comigo 🔻
 
