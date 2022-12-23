@@ -20,16 +20,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellgjs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div align="center" style="display: inline_block; "><br>
-      <img align="center" alt="TtpeScript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <img align="center" alt="Nest.JS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  
-      <img align="center" alt="NODE.Js" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Node.Js" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img align="center" alt="TypeScript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Nest.JS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  
+      <img  align="center" alt="Mysql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img align="center" alt="Postgresql" height="40" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
       <img align="center" alt="VsCode" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-      <img align="center" alt="Postgresql" height="40" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-      <img  align="center" alt="Mysql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-          
     
    ![Snake animation](https://github.com/gabriel-gjs/gabriel-gjs/blob/output/github-contribution-grid-snake.svg)
 </div>
