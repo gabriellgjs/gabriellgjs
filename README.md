@@ -11,7 +11,7 @@
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.codewars.com/users/gabriellgjs" target="_blank">
-    <img   padding="15em" width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/small"/>
+    <img   height="50em" width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/small"/>
   </a>
   </div>
   
