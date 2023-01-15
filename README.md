@@ -10,13 +10,15 @@
    <a href="https://www.linkedin.com/in/gabriel-jose-silva/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.codewars.com/users/gabriellgjs" target="_blank">
-    <img   height="50em" width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
-  </a>
-  </div>
-  
-###
 
+  </div>
+
+###
+<div align="center">
+    <a href="https://www.codewars.com/users/gabriellgjs" target="_blank">
+      <img   height="50em" width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
+    </a>
+</div>
 <div align="center">
   <a href="https://github.com/gabriellgjs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=dracula"/>
