@@ -17,7 +17,10 @@
 <div align="center">
   <a href="https://github.com/gabriellgjs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=dracula"/>
-  <img height="50em"  width="500em" src="https://www.codewars.com/users/gabriellgjs/badges/micro"/>
+</div>
+  <div align="center">
+  <a href="https://github.com/gabriellgjs">
+  <img height="85em"  width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/micro"/>
 </div>
   <div align="center" style="display: inline_block; "><br>
       <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
