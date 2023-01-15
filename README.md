@@ -20,7 +20,7 @@
 </div>
   <div align="center">
   <a href="https://github.com/gabriellgjs">
-  <img height="85em"  width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
+  <img height="150em"  width="450em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
 </div>
   <div align="center" style="display: inline_block; "><br>
       <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
