@@ -38,15 +38,15 @@
       <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     
    ![Snake animation](https://github.com/gabriel-gjs/gabriel-gjs/blob/output/github-contribution-grid-snake.svg)
-    
+        
+</div>
     
        <div align="center">
         <blockquote>
           <p> Pegue a capa, vista a capa, voê </p>
         </blockquote>
-      </div>
-    
-</div>
+        </div>
+
 
   
 
