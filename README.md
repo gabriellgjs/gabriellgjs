@@ -44,7 +44,8 @@
         <blockquote>
           <p> Pegue a capa, vista a capa, voê </p>
         </blockquote>
-    </div>
+      </div>
+    
 </div>
 
   
