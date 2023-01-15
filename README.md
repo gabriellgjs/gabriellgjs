@@ -36,14 +36,15 @@
       <img align="center" alt="Postgresql" height="40" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
       <img align="center" alt="VsCode" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <div align="center">
-      <blockquote>
-      <p> Pegue a capa, vista a capa, voê </p>
-      </blockquote>
-    </div>
     
    ![Snake animation](https://github.com/gabriel-gjs/gabriel-gjs/blob/output/github-contribution-grid-snake.svg)
     
+    
+       <div align="center">
+        <blockquote>
+          <p> Pegue a capa, vista a capa, voê </p>
+        </blockquote>
+    </div>
 </div>
 
   
