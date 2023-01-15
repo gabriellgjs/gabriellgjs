@@ -16,7 +16,7 @@
 ###
 <div align="center">
     <a href="https://www.codewars.com/users/gabriellgjs" target="_blank">
-      <img   height="50em" width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
+      <img   height="180em" width="350em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
     </a>
 </div>
 <div align="center">
