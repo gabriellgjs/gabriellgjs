@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/gabriellgjs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://www.codewars.com/users/gabriellgjs/badges/small"/>
+  <img height="90em" src="https://www.codewars.com/users/gabriellgjs/badges/small"/>
 </div>
   <div align="center" style="display: inline_block; "><br>
       <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
