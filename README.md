@@ -10,8 +10,8 @@
    <a href="https://www.linkedin.com/in/gabriel-jose-silva/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.linkedin.com/in/gabriel-jose-silva/" target="_blank">
-    <img height="120em"  width="250em" src="https://www.codewars.com/users/gabriellgjs/badges/small"/>
+  <a href="https://www.codewars.com/users/gabriellgjs" target="_blank">
+    <img   width="200em" src="https://www.codewars.com/users/gabriellgjs/badges/small"/>
   </a>
   </div>
   
