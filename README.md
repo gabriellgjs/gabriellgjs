@@ -40,12 +40,11 @@
    ![Snake animation](https://github.com/gabriel-gjs/gabriel-gjs/blob/output/github-contribution-grid-snake.svg)
         
 </div>
-    
-       <div align="center">
-        <blockquote>
-          <p> Pegue a capa, vista a capa, voê </p>
-        </blockquote>
-        </div>
+   <div align="center">
+      <blockquote>
+         <p> Pegue a capa, vista a capa, voê </p>
+      </blockquote>
+    </div>
 
 
   
