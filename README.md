@@ -1,52 +1,44 @@
-# Olá, eu sou o Gabriel Silva...
-  - 📚 Acadêmico em Desenvolvimento de Sistemas<br>
-  - 🧑‍💻 BackEnd Developer
-  - 🌱 Estudando Nest.js
-### Entre em contato comigo 🔻
- <div align="center">
-   <a href = "mailto:contato.gabrieljosesilva@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<h1 align="center">
+  <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>
+  Olá, eu sou o Gabriel Silva 🥷
+</h1>
+
+<h3 align="center">
+  e sou desenvolvedor Fullstack
+</h3> 
+
+<br>
+
+- 🦞 Atualmente eu estou em busca minha vaga de Dev
+
+- 🌱 Estou estudando **React e Node/Nest.Js**
+
+- 🎓 Curso Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Paraná**
+
+- 👨‍💻 Meu Linkedin: [https://www.linkedin.com/in/gabriel-jose-silva/](https://www.linkedin.com/in/gabriel-jose-silva/)
+
+- 📫 Entre contato comigo: **contato.gabrieljosesilva@gmail.com**
+
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/gabriellgjs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellgjs&layout=compact&theme=tokyonight"/>
   </a>
-   <a href="https://www.linkedin.com/in/gabriel-jose-silva/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-
-  </div>
-
-###
-<div align="center">
-    <a href="https://www.codewars.com/users/gabriellgjs" target="_blank">
-      <img   height="150em" width="350em" src="https://www.codewars.com/users/gabriellgjs/badges/large"/>
-    </a>
 </div>
-<div align="center">
-  <a href="https://github.com/gabriellgjs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=dracula"/>
-</div>
+
+<br>
+
   <div align="center">
-  <a href="https://github.com/gabriellgjs">
-  
+     <img align="center" alt="javascript" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+     <img align="center" alt="typescript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+     <img align="center" alt="nodejs" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img align="center" alt="nodejs" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+     <img align="center" alt="nodejs" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+     <img align="center" alt="nestjs" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">  
+     <img align="center" alt="mysql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+     <img align="center" alt="vscode" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+     <img align="center" alt="php" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
 </div>
-  <div align="center" style="display: inline_block; "><br>
-      <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Node.Js" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img align="center" alt="TypeScript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <img align="center" alt="Nest.JS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  
-      <img  align="center" alt="Mysql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img align="center" alt="Postgresql" height="40" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-      <img align="center" alt="VsCode" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    
-   ![Snake animation](https://github.com/gabriel-gjs/gabriel-gjs/blob/output/github-contribution-grid-snake.svg)
-        
-</div>
-   <div align="center">
-      <blockquote>
-         <p> Pegue a capa, vista a capa, voê </p>
-      </blockquote>
-    </div>
-
-
-  
-
-  
+<br>
