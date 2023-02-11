@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  e sou desenvolvedor Fullstack
+  e sou Desenvolvedor Fullstack
 </h3> 
 
 <br>
