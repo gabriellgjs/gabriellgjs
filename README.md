@@ -21,9 +21,9 @@
 
 <br>
 <br>
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellgjs&layout=compact&theme=tokyonight"/>
+<div align="center" width: "40rem">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=tokyonight"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellgjs&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
@@ -38,5 +38,6 @@
      <img align="center" alt="mysql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
      <img align="center" alt="vscode" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
      <img align="center" alt="php" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+     <img align="center" alt="visitantes" height="22" src="https://visitor-badge.laobi.icu/badge?page_id=gabriellgjs.gabriellgjs") />
 </div>
 <br>
