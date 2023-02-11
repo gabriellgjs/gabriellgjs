@@ -9,7 +9,7 @@
 
 <br>
 
-- 🦞 Atualmente eu estou em busca minha vaga de Dev
+- 🦞 Atualmente eu estou em buscando minha vaga de Dev
 
 - 🌱 Estou estudando **React e Node/Nest.Js**
 
