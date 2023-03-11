@@ -24,6 +24,7 @@
 <div align="center" width: "40rem">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriellgjs&show_icons=true&theme=tokyonight"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellgjs&layout=compact&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriellgjs&theme=tokyonight&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />
 </div>
 
 <br>
