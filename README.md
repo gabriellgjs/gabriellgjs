@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  e sou Desenvolvedor Fullstack
+  e sou Desenvolvedor Back-End
 </h3> 
 
 <br>
