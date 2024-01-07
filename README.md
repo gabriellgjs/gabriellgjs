@@ -3,7 +3,7 @@
 <br>
 <div>
   
-  - 🌱 Estou estudando **Spring** e **Java**
+  - 🌱 Estou estudando **Spring**
   - 🎓 Formando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Paraná - Campus Umuarama**
   - 👨‍💻 Meu LinkedIn: [https://www.linkedin.com/in/gabriel-jose-silva/](https://www.linkedin.com/in/gabriel-jose-silva/)
   - 📫 Entre contato comigo: **contato.gabrieljosesilva@gmail.com**
